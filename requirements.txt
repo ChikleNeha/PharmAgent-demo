@@ -1,0 +1,18 @@
+# Backend & Database
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-dotenv
+
+# LangChain & Agentic Orchestration
+langchain
+langchain-community
+langgraph
+langchain-ollama
+langsmith
+
+# Tools & Actions
+requests
+pandas
+openpyxl
